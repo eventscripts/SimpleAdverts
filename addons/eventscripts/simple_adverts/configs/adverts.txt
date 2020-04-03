@@ -1,0 +1,15 @@
+// List of your server adverts
+// You can use colors by typing # plus the color
+// Examples:
+// #greenThis message is green
+// #orangeThis message is orange
+// #redThis message is red #blueand blue
+// This message is not colored
+//
+// Open colors.ini to look up/edit color codes
+#greenSimple adverts
+#orangeEasy to setup
+#lightblueAnd with custom colors
+#greenYou #yellowcan #redalso #whiteuse
+#greenmultiple #yellowin #redone #whitemessage
+#redO#greenr #reda#greend#redd #greeny#redo#greenu#redr #greeno#redw#greenn
